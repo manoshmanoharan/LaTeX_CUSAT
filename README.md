@@ -1,1 +1,1 @@
-# literature_review_TEX
+# LaTeX CLASS for CUSAT documents
